@@ -63,9 +63,9 @@ I am passionate about contributing to AI/ML open source projects and communities
 ## Let's Connect!  
 I am always eager to collaborate on innovative AI projects or engage in meaningful discussions.
 
-- 📨 Email: your.email@example.com  
-- 🔗 LinkedIn: [linkedin.com/in/your-linkedin-profile](https://linkedin.com/in/your-linkedin-profile)  
-- 🐦 Twitter: [twitter.com/your-twitter-handle](https://twitter.com/your-twitter-handle)  
+- 📨 Email: divyanshdobhal64@gmail.com
+- 🔗 LinkedIn: https://www.linkedin.com/in/divyansh-dobhal-975a18275?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+
 
 ---
 
